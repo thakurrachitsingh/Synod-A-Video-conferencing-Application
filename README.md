@@ -13,11 +13,11 @@ your smartphones or PCs.
 Currently, Covid-19 is forcing people to limit all non-essential physical contact which is creating
 new challenges in every aspects like in Business, Education, residential communities, Seminars
 and all other social gatherings.
-• Video meetings from anywhere anytime: User can easily
+* Video meetings from anywhere anytime: User can easily
 join/attend meetings through Synod from anywhere anytime.
-• Unlimited messaging: Users can also interact via chat messages.
-• Online Education: Synod can be used to attend online lectures as
+* Unlimited messaging: Users can also interact via chat messages.
+* Online Education: Synod can be used to attend online lectures as
 almost all the universities are shifting towards online mode of
 learning.
-• Group video calls: User can have video calls with their near and
+* Group video calls: User can have video calls with their near and
 dear one’s, friends etc.
